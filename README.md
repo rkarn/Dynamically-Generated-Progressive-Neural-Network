@@ -28,6 +28,6 @@ AWID Dataset can be downloaded from
     http://icsdweb.aegean.gr/awid/attributes.html
     http://icsdweb.aegean.gr/awid/draft-Intrusion-Detection-in-802-11-Networks-Empirical-Evaluation-of-Threats-and-a-Public-Dataset.pdf
     
-NSL-KDD dataset can be downloaded from: 
+MNIST dataset can be downloaded from: 
 
-    https://github.com/defcom17/NSL_KDD 
+    https://chromium.googlesource.com/external/github.com/tensorflow/tensorflow/+/r0.7/tensorflow/g3doc/tutorials/mnist/download/index.md
