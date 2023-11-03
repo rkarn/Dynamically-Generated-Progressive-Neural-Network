@@ -1,5 +1,9 @@
 # Dynamically-Generated-Progressive-Neural-Network
 
+This repsitory contains the source code to reproduce the results of paper:
+
+`Karn, Rupesh Raj, Prabhakar Kudva, and Ibrahim Abe M. Elfadel. "Dynamically generated compact neural networks for task progressive learning." In 2020 IEEE International Symposium on Circuits and Systems (ISCAS), pp. 1-5. IEEE, 2020.`
+
 This work uses synaptic weight consolidation methodology implemented in 
 
     https://github.com/ganguli-lab/pathint
